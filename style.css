@@ -1,0 +1,23 @@
+.container {
+  width: 490px;
+  margin: 0 auto;
+  transform: perspective(100px) rotateY(3deg);
+}
+.red-line {
+  width: 490px;
+  height: 84px;
+  background-color: red;
+  float: left;
+}
+.square-red {
+  width: 98px;
+  height: 84px;
+  background-color: red;
+  float: left;
+}
+.square-white {
+  width: 98px;
+  height: 84px;
+  background-color: white;
+  float: left;
+}
